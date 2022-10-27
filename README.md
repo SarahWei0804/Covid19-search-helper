@@ -27,7 +27,7 @@ from tkinter import ttk
 from urllib.request import urlopen
 import json
 from urllib.parse import quote
-from bs4 import 
+from bs4 import BeautifulSoup
 ```
 # Class and functions
 
